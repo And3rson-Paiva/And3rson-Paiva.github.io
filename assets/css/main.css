@@ -3134,7 +3134,7 @@ input, select, textarea {
 
 	table {
 		margin: 0 0 2em 0;
-		width: 100%;
+		/*width: 100%;*/
 	}
 
 		table tbody tr {
@@ -3152,7 +3152,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			color: #000000;
 			font-size: 1em;
 			font-weight: bold;
 			padding: 0 0.75em 0.75em 0.75em;
